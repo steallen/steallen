@@ -1,6 +1,6 @@
-## Hi there .... 👋
+## [Discover CS Cohort](https://www.pdx.edu/engineering/discover-cs-cohort) 🐥
 
-![image](cs_stock_058.jpg)
+![image](groupphoto.jpg)
 
 <!--
 **steallen/steallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
