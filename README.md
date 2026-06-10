@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there .... 👋
+
+![image](cs_stock_058.jpg)
 
 <!--
 **steallen/steallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
